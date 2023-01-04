@@ -29,3 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
+![proje resmi](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
